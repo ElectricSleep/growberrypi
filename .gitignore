@@ -133,3 +133,6 @@ bin/
 include/
 lib/
 share/
+
+# project
+notes.txt
